@@ -1,0 +1,306 @@
+@import url('https://fonts.googleapis.com/css2?family=Lato:wght@400;700&family=Source+Sans+Pro:wght@300;400;900&display=swap');
+
+body
+{
+	/*font-family: 'Lato', sans-serif; */
+	font-family: 'Source Sans Pro', sans-serif;
+}
+.banner
+{
+	
+	background:url(https://softronixsolution.com/sajan/shoes/images/banner.jpg);
+	background-size:cover;
+}
+.bg-light
+{
+	background: transparent !important;
+}
+.navbar-light .navbar-nav .nav-link
+{
+	font-family: 'Lato', sans-serif;
+	font-size:16px;
+	color:#fff;
+	padding:15px;
+}
+.navbar-light .navbar-nav .active>.nav-link
+{
+	color:red;
+}
+.navbar-light .navbar-brand
+{
+	color:#fff;
+	font-size: 43px;
+	font-weight: bold;
+	text-shadow: 2px 5px 3px (0 0 0 /6%);
+}
+.banner-text
+{
+	height:100vh;
+
+}
+.banner-text h1
+{
+	font-size:55px;
+	font-weight: 700;
+	text-shadow: 2px 5px 3px (0 0 0 /6%);
+}
+.banner-text p
+{
+	letter-spacing:2px;
+}
+.btn
+{
+	border-radius:0;
+}
+.bg-light1
+{
+	background:#f8f9fa;
+}
+.featured i
+{
+	color:#FF4C4C;
+}
+.featured h5
+{
+	font-size: 0.9em;
+    color: #1e272e;
+    text-transform: uppercase;
+    font-weight: 600;
+}
+.factive
+{
+	background:#FF4C4C;
+}
+.factive p, .factive i
+{
+	color:#fff;
+}
+.product-new-top
+{
+    background: #414b52;
+    font-size: 0.8em;
+    text-transform: uppercase;
+    padding:5px 15px;
+    color: #fff;
+}
+.products h6
+{
+	font-weight:bold;
+}
+.products h4
+{
+	color:red;
+}
+.products i
+{
+	color:#414b52;
+	margin: 0 0.2em;
+}
+.testimonials
+{
+	background:#F2F2F2;
+}
+.testimonials i
+{
+	font-size: 0.8em;
+    color: #ff4c4c;
+}
+.brands
+{
+	background:#1e272e;
+}
+.brand-items span
+{
+	color:#ccc;
+	font-size:33px;
+	text-align:center;
+}
+footer
+{
+    background: #f7f7f7;
+}
+.border-left h5
+{
+	font-weight:bold;
+}
+.border-left ul li a
+{
+	color:#727377;
+}
+.dropdown:hover>.dropdown-menu {
+  display: block;
+}
+.welcome p
+{
+	font-size: 0.9em;
+    color: #8c9398;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+.welcome h3
+{
+	font-weight:600;
+}
+h3.tittle
+{
+    font-size: 2.5em;
+    letter-spacing: 2px;
+    color: #292a2b;
+    text-transform: uppercase;
+    margin-bottom: 1em;
+}
+.inner-sec
+{
+	background:#F7F7F7;
+}
+.cactive
+{
+	background:#F7F7F7;
+}
+.feature-grids p
+{
+	font-size: 0.9em;
+    color: #8c9398;
+    line-height: 2em;
+    letter-spacing: 1px;
+    padding:10px;
+}
+.featured2 span
+{
+	color:#FF4C4C;
+}
+.featured2 i
+{
+	color:#fff;
+}
+.bottom-gd2-active p
+{
+	color:#fff;
+}
+.promotion
+{
+	background:#F7F7F7;
+	padding: 6px; 
+}
+.sale p
+{
+    font-size: 0.9em;
+    color: #8c9398;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+.icon i
+{
+	width: 60px;
+    height: 60px;
+    color: #007bff;
+    line-height: 60px;
+}
+.contact-right-content
+{
+	padding: 0.8em 1em;
+    color: #495057;
+    border: none;
+    border-radius: 0em;
+    font-size: 1em;
+    letter-spacing: 1px;
+    margin-bottom: 1em;
+    -webkit-appearance: none;
+    outline: none;
+    width: 100%;
+    background: #f0f1f3;
+}
+ol.breadcrumb {
+    background: none;
+    margin: 0;
+    padding: 1em 2em;
+    background: #f7f7f7;
+}
+.breadcrumb a
+{
+	color:red;
+}
+.caption p
+{
+    font-size: 0.9em;
+    color: #8c9398;
+    line-height: 2em;
+    letter-spacing: 1px;
+}
+.ban-buttons a
+{
+	background: #fff;
+    padding: 11px 31px;
+    font-size: 15px;
+    letter-spacing: 1px;
+    color: #ff4c4c;
+    border-radius: 0px;
+    display: inline-block;
+}
+.grid-img-right
+{
+	background:url(../images/single.jpg);
+}
+.w3layouts-box-list
+{
+	list-style:none;
+	
+}
+ul.w3layouts-box-list li
+{
+    list-style: none;
+    display: block;
+    margin-bottom: 0.9em;
+    color: #8c9398;
+    letter-spacing: 1px;
+    font-size: 0.9em;
+}
+h3.sear-head {
+    color: #1e272e;
+    margin-bottom: 20px;
+    font-size: 1em;
+    font-weight: 600;
+    text-transform: uppercase;
+    letter-spacing:5px;
+}
+ul
+{
+    margin: 0;
+    padding: 0;
+}
+.w3layouts-box-list-star
+{
+	color:#8c9398;
+}
+.customer-rev ul li a span {
+    color: #a4a6a9;
+    font-weight: normal;
+    margin-right: 4px;
+}
+.w3layouts-newsletter button.btn1 {
+    color: #ff4c4c;
+    font-size: 17px;
+    letter-spacing: 1px;
+    border: transparent;
+    text-transform: uppercase;
+    transition: 0.5s all;
+    background: #1e272e;
+    font-weight: 600;
+    cursor: pointer;
+    border-radius: 0;
+    padding: 0.4em 2em;
+}
+.img-deal1 h3 {
+    color: #495057;
+    font-size: 13px;
+    margin-bottom: 10px;
+    text-transform: uppercase;
+}
+@media (min-width:1200px)
+{.container {
+	max-width:1300px !important;
+}
+@media (min-width: 768px)
+{.featured2{
+    padding-bottom: 3rem !important;
+}
